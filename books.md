@@ -8,17 +8,17 @@ permalink: /books/
 {:toc}
 
 
-2016书单
+2017书单
 -----------------------------------------------------------------
 
-+ 《Think in java 4th》
-+ 《鸟哥的Linux私房菜基础学习篇-第三版》
++ 《C++ Primer 5th》
++ 《Computer Vision:Algorithms and Applications》
 + 《重构》
-+ 《Getting real》
-+ 《深入JVM虚拟机》
-+ 《Head first设计模式》
-+ 《算法(第四版)》
-+ 《Maven实战》
-+ 《HTTP协议详解》
-+ 《TCP/IP协议详解-卷一》
-+ 《阿弥陀佛么么哒》
++ 《Directx 9.0 3D游戏开发编程基础》
++ 《Windows程序设计 第五版》
++ 《机器学习》
++ 《人类简史》
++ 《未来简史》
++ 《宇宙简史》
++ 《第一哲学沉思集》
++ 《推理的迷宫：悖论、谜题及知识的脆弱性》
