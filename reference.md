@@ -19,14 +19,14 @@ HTTP协议详解
 [rowen的专栏]
 =====================
 数据挖掘的基础入门
-[http://blog.csdn.net/luowen3405/article/details/6331763](http://blog.csdn.net/luowen3405/article/details/6331763)
+[rowen的专栏](http://blog.csdn.net/luowen3405/article/details/6331763)
 
 [axman]
 =====================
 多线程相关写的比较好
-[http://blog.csdn.net/axman/article/category/894625](http://blog.csdn.net/axman/article/category/894625)
+[axman](http://blog.csdn.net/axman/article/category/894625)
 
 [mikechengwei]
 =====================
 大学的好兄弟的博客，技术很牛,醉心java和大数据
-[https://mikechengwei.github.io/mikechengwei.github.io/](https://mikechengwei.github.io/mikechengwei.github.io/)
+[mikechengwei](https://mikechengwei.github.io/mikechengwei.github.io/)
