@@ -28,5 +28,5 @@ HTTP协议详解
 
 [mikechengwei]
 =====================
-大学的好兄弟的博客，技术很牛
-[https://mikechengwei.github.io/mikechengwei.github.io/]
+大学的好兄弟的博客，技术很牛,醉心java和大数据
+[https://mikechengwei.github.io/mikechengwei.github.io/](https://mikechengwei.github.io/mikechengwei.github.io/)
