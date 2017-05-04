@@ -1,15 +1,15 @@
 # Site settings
-name: Conquer the time
+name: Wayne's Blog
 email: waynetomas@outlook.com
 author: Wayne Tomas
 #url: http://www.hifreud.com
 resume_site: http://www.hifreud.com/Resume.io/
 github: https://github.com/HADESAngelia/
 baseurl: ""
-description: Follow interest in CG&CV&HCI.
+description: Follow interest in CG&CV&HCI
 meta_description: 个人博客;政治着眼于当下，方程寓意于永恒。
-motto: To the life to time,rather than to the time in life.
-banner: 给时光以生命，而不是给生命以时光。
+motto: To the life to time,rather than to the time in life
+banner: 给时光以生命，而不是给生命以时光
 
 #permalink: /:categories/:year/:month/:day/:title/
 permalink: /:year/:month/:day/:title/
