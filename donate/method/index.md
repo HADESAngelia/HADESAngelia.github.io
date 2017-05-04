@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 赞助方式
+title: 支持作者
 permlink: /method
 ---
 
@@ -9,26 +9,26 @@ permlink: /method
 
 <hr>
 
-赞助方式一：`支付宝二维码付款`
-------------------------------
+#赞助方式一：`支付宝二维码付款`
+#------------------------------
 
-<hr>
-您可以选择手机支付宝扫一扫
+#<hr>
+#您可以选择手机支付宝扫一扫
 
-<img src="{{ '/styles/images/zhifubao.PNG' | prepend: site.baseurl }}" alt="支付宝二维码付款给Freud" width="310" />
+#<img src="{{ '/styles/images/zhifubao.PNG' | prepend: site.baseurl }}" alt="支付宝二维码付款给Freud" width="310" />
 
-<br>
-<br>
+#<br>
+#<br>
 
-赞助方式二：`微信扫一扫`
-------------------------------
+#赞助方式二：`微信扫一扫`
+#------------------------------
 
-<hr>
-您可以选择手机微信扫一扫
+#<hr>
+#您可以选择手机微信扫一扫
 
-![微信二维码付款给Freud]({{ '/styles/images/weixin.png' | prepend: site.baseurl }})
+#![微信二维码付款给Freud]({{ '/styles/images/weixin.png' | prepend: site.baseurl }})
 
-<br>
-<br>
+#<br>
+#<br>
 
-<hr>
+#<hr>
