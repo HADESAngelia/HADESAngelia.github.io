@@ -6,7 +6,7 @@ author: Wayne Tomas
 resume_site: http://www.hifreud.com/Resume.io/
 github: https://github.com/HADESAngelia/
 baseurl: ""
-description: Actually, less is more!
+description: Follow interest in CG&CV&HCI.
 meta_description: 个人博客;政治着眼于当下，方程寓意于永恒。
 motto: To the life to time,rather than to the time in life.
 banner: 给时光以生命，而不是给生命以时光。
@@ -25,13 +25,13 @@ markdown: kramdown
 
 baidu_analysis: 94be4b0f9fc5d94cc0d0415ea6761ae9
 
-FB:
-  comments :
-    provider : duoshuo
-    duoshuo:
-        short_name : luoyan35714
-    disqus :
-        short_name : freudkang
+#FB:
+  #comments :
+   # provider : duoshuo
+    #duoshuo:
+        #short_name : luoyan35714
+    #disqus :
+        #short_name : freudkang
     # facebook :
     #   appid : 123
     #   num_posts: 5
