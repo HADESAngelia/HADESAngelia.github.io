@@ -8,7 +8,7 @@ github: https://github.com/HADESAngelia/
 baseurl: ""
 description: Follow interest in CG&CV&HCI
 meta_description: 个人博客;政治着眼于当下，方程寓意于永恒。
-motto: To the life to time,rather than to the time in life
+motto: To the time to life,rather than to the life in time
 banner: 给时光以生命，而不是给生命以时光
 
 #permalink: /:categories/:year/:month/:day/:title/
@@ -18,7 +18,7 @@ paginate: 10
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
 
 github_username: HADESAngelia
-highlighter: Pygments
+highlighter: rough
 
 # Build settings
 markdown: kramdown
