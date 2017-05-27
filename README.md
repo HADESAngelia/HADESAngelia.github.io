@@ -1,7 +1,8 @@
 # Conquer the time
 ## 本博客关注计算机科学多媒体与智能信息处理相关领域、哲学、以及一些geek内容  
 
-[本博客地址](https://hadesangelia.github.io/)
+[本博客地址](https://hadesangelia.github.io/)  
+
 致谢
 ====================================
 + 感谢[Less官网](http://lesscss.cn/)的样式，本Jekyll框架的样式都是基于Less官网的样式直接拷贝过来的。只是重构了JS，并且加入了Jekyll语法而已。
