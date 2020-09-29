@@ -3,7 +3,7 @@ layout: post
 title:  anaconda打开出错解决方案
 date:   2019-3-26 12:54:00 +0800
 categories: Solutions
-tag: python
+tag: Python
 ---
 
 * content
